@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #88AB8E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bloco-titulo {
+    color: rgb(87, 114, 85);
+    text-align: center;
+    margin: 20px;
+}
+
+.bloco {
+    background-color: rgb(87, 114, 85);
+    padding: 50px;
+    border-radius: 8px;
+}
+
+.bloco-inputs {
+    text-align: center;
+    padding: 10px;
+}
+
+.input {
+    background-color: #88AB8E;
+    border-style: none;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+}
+
+.bloco-botao {
+    text-align: center;
+    padding: 15px;
+}
+
+.botao-estilo {
+    background-color: #88AB8E;
+    color: rgb(110, 103, 103);
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.resultado {
+    color: #88AB8E;
+    text-align: center;
+    padding: 5px;
+}
